@@ -2,6 +2,7 @@ Catalano Framework
 =========
 
 The Catalano Framework is a framework for scientific computing for Java and Android. The project started as an initial port of the many features of the [AForge.NET] and [Accord.NET] frameworks for .NET, but is steadily growing with more advanced features which are now being shared between those projects.
+Catalano Framework 是一个 Java 和 Android 的科学计算框架。 主要计算功能： 图像处理 模糊逻辑 数学计算 统计 机器学习 神经网络
 
 The project is organized under the same architecture found in the afore mentioned frameworks. Experienced users who would wish to leverage their expertise on Accord and AForge to work on Android can rely on the same namespaces for:
 
